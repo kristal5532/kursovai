@@ -1,0 +1,11 @@
+E:\колледж\3 курс\КУРСОВАЯ\Программа\Kursach_V3\bin\Debug\CD_and_DVD_V2.mdb
+E:\колледж\3 курс\КУРСОВАЯ\Программа\Kursach_V3\bin\Debug\Kursach_V3.exe.config
+E:\колледж\3 курс\КУРСОВАЯ\Программа\Kursach_V3\bin\Debug\Kursach_V3.exe
+E:\колледж\3 курс\КУРСОВАЯ\Программа\Kursach_V3\bin\Debug\Kursach_V3.pdb
+E:\колледж\3 курс\КУРСОВАЯ\Программа\Kursach_V3\obj\Debug\Kursach_V3.csproj.AssemblyReference.cache
+E:\колледж\3 курс\КУРСОВАЯ\Программа\Kursach_V3\obj\Debug\Kursach_V3.Form1.resources
+E:\колледж\3 курс\КУРСОВАЯ\Программа\Kursach_V3\obj\Debug\Kursach_V3.Properties.Resources.resources
+E:\колледж\3 курс\КУРСОВАЯ\Программа\Kursach_V3\obj\Debug\Kursach_V3.csproj.GenerateResource.cache
+E:\колледж\3 курс\КУРСОВАЯ\Программа\Kursach_V3\obj\Debug\Kursach_V3.csproj.CoreCompileInputs.cache
+E:\колледж\3 курс\КУРСОВАЯ\Программа\Kursach_V3\obj\Debug\Kursach_V3.exe
+E:\колледж\3 курс\КУРСОВАЯ\Программа\Kursach_V3\obj\Debug\Kursach_V3.pdb
